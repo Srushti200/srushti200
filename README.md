@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I’m Srushti Haridas Patil
 
-<!--
-**Srushti200/srushti200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.E. Student – Artificial Intelligence and Data Science  
+💻 Full Stack Developer | AI & Data Science Enthusiast  
+💡 Passionate about building intelligent and user-friendly web applications
 
-Here are some ideas to get you started:
+![Visitor Count](https://komarev.com/ghpvc/?username=srushti200&label=Profile%20Views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Java  
+- **Database:** MongoDB, MySQL  
+- **AI/ML:** Python, NumPy, Pandas  
+- **Tools:** Git, VS Code, Postman
+
+---
+
+## 🚀 Projects
+
+### 🌊 Underwater Image Enhancer (*Final Year Project – Work in Progress*)  
+A CNN-based deep learning system for enhancing and restoring underwater images
+
+### 🛒 E-Commerce Web App  
+Built a fully responsive shopping website using the **MERN stack** during my internship at **ScaleFull Technologies**
+
+---
+
+## 🌱 Currently Learning
+
+- Deep Learning (CNNs)  
+- Full-Stack AI Integration
+
+---
+
+## 📈 GitHub Stats
+
+![Srushti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srushti200&show_icons=true&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=srushti200&theme=radical&margin-w=10&margin-h=10)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [srushti.patil.workmail@gmail.com](mailto:srushti.patil.workmail@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/srushti-patil-313b19258](https://www.linkedin.com/in/srushti-patil-313b19258)
