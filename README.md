@@ -50,4 +50,4 @@ Built a fully responsive shopping website using the **MERN stack** during my int
 ## 📫 Let's Connect
 
 - 📧 Email: [srushti.patil.workmail@gmail.com](mailto:srushti.patil.workmail@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/srushti-patil-313b19258](https://www.linkedin.com/in/srushti-patil-313b19258)
+- 💼 LinkedIn: [linkedin.com/in/srushti-haridas-patil](https://www.linkedin.com/in/srushti-haridas-patil)
